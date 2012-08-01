@@ -1,0 +1,10 @@
+/*
+ * widget1.css
+ */
+
+h2.widget1 {
+	color: red;
+	border: 1px solid black;
+	display: inline-block;
+	padding: 1em;
+}

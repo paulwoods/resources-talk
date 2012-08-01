@@ -1,0 +1,10 @@
+/*
+ * widget4.css
+ */
+
+h2.widget4 {
+	color: orange;
+	border: 1px solid black;
+	display: inline-block;
+	padding: 1em;
+}
